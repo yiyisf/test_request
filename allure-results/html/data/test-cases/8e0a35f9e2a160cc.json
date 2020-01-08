@@ -1,0 +1,91 @@
+{
+  "uid" : "8e0a35f9e2a160cc",
+  "name" : "test_my",
+  "fullName" : "testcase.test_login_origin.TestTsg#test_my",
+  "historyId" : "79ed8f22c275b1b65af9b1bb3297ba9c",
+  "time" : {
+    "start" : 1577020549519,
+    "stop" : 1577020549519,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "836b2dd79c751a90",
+      "name" : "log",
+      "source" : "836b2dd79c751a90.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "bb4da187eab3bd21",
+      "name" : "stdout",
+      "source" : "bb4da187eab3bd21.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "1689ef1b5cf2409a",
+      "name" : "stderr",
+      "source" : "1689ef1b5cf2409a.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_origin"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTsg"
+  }, {
+    "name" : "host",
+    "value" : "promote.cache-dns.local"
+  }, {
+    "name" : "thread",
+    "value" : "50863-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_login_origin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a994e7deeccfb765",
+      "status" : "passed",
+      "time" : {
+        "start" : 1577018065841,
+        "stop" : 1577018065842,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e0a35f9e2a160cc.json",
+  "parameterValues" : [ ]
+}
